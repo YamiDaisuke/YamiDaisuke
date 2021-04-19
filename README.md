@@ -9,7 +9,7 @@ Welcome to my github!!! 🤓
 
 ### My Current Projects
 
-- Hermes Swift:
+- [Hermes Swift:](https://github.com/YamiDaisuke/hermes-swift)
   - A compiler and interpreter written in swift! based on these great books:
     - [Writing An Interpreter In Go](https://interpreterbook.com)
     - [Writing A Compiler In Go](https://compilerbook.com)
