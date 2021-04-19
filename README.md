@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+Welcome to my github!!! 🤓
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=YamiDaisuke&show_icons=true&theme=onedark)
+
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiDaisuke&theme=onedark)
+
+### My Current Projects
+
+- Hermes Swift:
+  - A compiler and interpreter written in swift! based on these great books:
+    - [Writing An Interpreter In Go](https://interpreterbook.com)
+    - [Writing A Compiler In Go](https://compilerbook.com)
+
+
 <!--
 **YamiDaisuke/YamiDaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
