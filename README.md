@@ -33,7 +33,7 @@ to what you'll find in apps like **"Todoist"** than the typical tutorial app.
 
 ### What's comming 🤔
 
-I want to lear Go Lang so I'm preparing a new project that will include a backed build in go lang!!!
+I want to learn Go Lang so I'm preparing a new project that will include a backed build in go!!! 
 
 <!--
 **YamiDaisuke/YamiDaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
