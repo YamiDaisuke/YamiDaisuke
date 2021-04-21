@@ -1,13 +1,13 @@
 
 ### Welcome!!! 🤓 
 
-### About Me 🇸🇻
+### About Me 🇸🇻 🇨🇱
 
 Hi, my name is Franklin Cruz, I'm a developer I love coding and most of all learn new things, this is my personal GitHub 
 account where I mostly work on personal projects aimed to learn and practice new technologies.
 
 I'm mostly specialized in iOS Development, but life has taken me into the path of backend, Android, and a little Web development. 
-Currently, I work as a platform architecture at Nunchee.[Nunchee](https://nunchee.com).
+Currently, I work as a platform architecture at [Nunchee.](https://nunchee.com).
 
 Here are some stats about what I've doing here! 🔬
 
