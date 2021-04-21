@@ -1,7 +1,7 @@
 
-### Welcome to my github!!! 🤓 
+### Welcome!!! 🤓 
 
-### About Me
+### About Me 🇸🇻
 
 Hi, my name is Franklin Cruz, I'm a developer I love coding and most of all learn new things, this is my personal GitHub 
 account where I mostly work on personal projects aimed to learn and practice new technologies.
