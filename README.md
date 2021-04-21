@@ -1,11 +1,21 @@
+
 ### Welcome to my github!!! 🤓 
 
-Let's start with some stats about what I've doing here!! 🔬
+### About Me
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=YamiDaisuke&show_icons=true&theme=onedark)
+Hi, my name is Franklin Cruz, I'm a developer I love coding and most of all learn new things, this is my personal GitHub 
+account where I mostly work on personal projects aimed to learn and practice new technologies.
 
+I'm mostly specialized in iOS Development, but life has taken me into the path of backend, Android, and a little Web development. 
+Currently, I work as a platform architecture at Nunchee.[Nunchee](https://nunchee.com).
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiDaisuke&theme=onedark)
+Here are some stats about what I've doing here! 🔬
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YamiDaisuke&show_icons=true&theme=onedark&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamiDaisuke&theme=onedark&card_width=500" />
+</p>
 
 ### My Current Projects 🧑🏾‍💻
 
@@ -33,7 +43,7 @@ to what you'll find in apps like **"Todoist"** than the typical tutorial app.
 
 ### What's comming 🤔
 
-I want to learn Go Lang so I'm preparing a new project that will include a backed build in go!!! 
+I want to learn Go Lang so I'm preparing a new project that will include a backed written in go!
 
 <!--
 **YamiDaisuke/YamiDaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
