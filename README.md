@@ -59,7 +59,7 @@ Here are some stats about what I've doing here! 🔬
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YamiDaisuke&show_icons=true&theme=onedark&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamiDaisuke&theme=onedark&card_width=500" />
+  <img src="https://github-readme-stats-git-master-yamidaisuke.vercel.app/api/top-langs/?username=YamiDaisuke&theme=onedark&card_width=500&affiliations=OWNER,ORGANIZATION_MEMBER"/>
 </p>
 
 ### My Current Projects 🧑🏾‍💻
