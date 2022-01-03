@@ -7,7 +7,8 @@ Hi, my name is Franklin Cruz, I'm a developer I love coding and most of all lear
 account where I work on my side projects aimed to learn and practice new technologies, while also having fun 😉.
 
 I'm mostly specialized in iOS Development, but life has taken me into the path of backend, Android, and a little Web development. 
-Currently, I work as a platform architecture at [FZSports](https://fzsports.com) for [Nunchee](https://nunchee.com) and 
+Currently, I work as a iOS Developer at [Humming Homes](https://www.humminghomes.com), 
+before I worked as platform architecture at [FZSports](https://fzsports.com) for [Nunchee](https://nunchee.com) and 
 [Fanatiz](https://watch.fanatiz.com).
 
 ### Technologies and tools 
